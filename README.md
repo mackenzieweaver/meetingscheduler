@@ -28,3 +28,5 @@ and the dates
 For example: 8-14
 
 or         : 29-5
+
+Open the 'formatting.xlsx' file to copy and paste in the corret formatting and ¡hwal-ah!
