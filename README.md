@@ -16,9 +16,15 @@ os.chdir('C:\\Users\\mackn\\Documents\\Spiritual\\Meeting Schedules')
 to whatever directory you want, then
 
 Run
+
 Enter month or months
+
 For example: abril
+
 or         : abril mayo
+
 and the dates
+
 For example: 8-14
+
 or         : 29-5
