@@ -5,7 +5,9 @@ and then generate an excel workbook (or sheet) with the all the pertinent inform
 
 Download python IDLE 3.7.2 or higher
 https://www.python.org/downloads/
+
 Install
+
 Open make_meeting_schedule_template.py
 
 Go to line 62
